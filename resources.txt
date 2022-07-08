@@ -1,0 +1,9 @@
+-- Some project resources --
+
+API Links:
+https://openweathermap.org/weather-conditions
+
+https://openweathermap.org/current#geocoding
+
+weather App template:
+https://speckyboy.com/css-js-snippets-weather-widgets/

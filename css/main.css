@@ -1,0 +1,27 @@
+
+@media (orientation: landscape) {
+    body {
+        background-image: url(/images/background.jpg);
+        background-size: 100%;
+        position: relative;
+        color: rgba(1, 1, 1, 0.705);
+    }
+}
+
+@media (max-width: 1100px) {
+    body {
+        background-image: url(/images/square-1.jpg);
+        background-size: 100%;
+        position: relative;
+        color: rgba(1, 1, 1, 0.705);
+    }
+}
+
+@media (orientation: portrait) {
+    body {
+        background-image: url(/images/portrait-1.jpg);
+        background-size: 100%;
+        position: relative;
+        color: rgba(222, 231, 224, 0.804);
+    }
+}
